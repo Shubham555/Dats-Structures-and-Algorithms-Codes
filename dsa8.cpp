@@ -1,9 +1,5 @@
 /****************  Switch Statement & Functions ******************************/
-/*switch case statement: 
-              js if else ch tsch thod diffrent
-            switch madhe dileli jashi case ahe tashi case ( bhetli ki ) khalchya kontya be case la match
-            match zali ki te execute/print karaych.  :)
-*/
+ 
 #include <iostream>
 using namespace std;
 

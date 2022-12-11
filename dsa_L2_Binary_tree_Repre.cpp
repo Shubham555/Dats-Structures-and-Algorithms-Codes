@@ -26,5 +26,6 @@ root->left->right= new TreeNode(5);
 cout<<root->data<<endl;
 cout<<root->left->data<<endl;
 cout<<root->right->data<<endl;
+cout<<root->left->right->data<<endl;    
     return 0;
 }
